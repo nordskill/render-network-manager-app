@@ -6,4 +6,7 @@ You can use the app without signing in to quickly download rendered frames via t
 
 It works with ORBX (Octane Standalone), Cinema 4D, and Blender scenes, and you can tweak the app's behavior and layout to fit your workflow.
 
-![Render Network Manager compact mode](docs/images/ui/toggle_compact_mode.png)
+- [Help & Documentation](docs/index.md)
+- [Download](https://github.com/nordskill/render-network-manager-app/releases/latest/)
+
+![Render Network Manager compact mode](docs/images/instant-downloads-ui.jpg)
