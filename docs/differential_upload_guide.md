@@ -1,7 +1,3 @@
----
-name: differential-upload
-description: Understand differential upload UX.
----
 # Differential Upload Guide
 
 ## What is Differential Upload?
