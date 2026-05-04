@@ -9,3 +9,5 @@ Keep this enabled when you want editing, compositing, or review software to reco
 ## Good to know
 
 The setting only changes download order. It does not skip frames or change the final downloaded output.
+
+![Download First and Last Frames First](images/settings/download-first-and-last.png)
