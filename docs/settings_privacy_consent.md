@@ -1,5 +1,7 @@
 # Usage Statistics Consent
 
+> in development 
+
 This setting controls whether the app may collect usage statistics.
 
 ## What that means
