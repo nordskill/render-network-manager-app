@@ -11,7 +11,7 @@ When you sign in successfully with an access token, the app automatically saves 
 
 ## Good to know
 
-The app stores this value securely on your machine. If you ever want to stop using it, clear the field and save the change.
+The app stores this value securely on your machine. If you ever want to stop using it, clear the field.
 
 If the app signs in but some lists or actions do not work, the token may be missing the permissions the app needs.
 
