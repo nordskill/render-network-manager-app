@@ -9,3 +9,5 @@ Nothing is installed on its own. The update stays downloaded, and the **Install 
 ## Checked
 
 The downloaded update is installed automatically the next time you close the app, even if you never click the **Install update** button.
+
+![Automatically Install Updates on App Restart setting](images/settings/Auto-Install%20Updates.png)
